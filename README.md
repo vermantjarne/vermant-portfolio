@@ -1,2 +1,1 @@
-# vermant-portfolio
-Portfolio for Jarne Vermant
+# Portfolio of Jarne Vermant
